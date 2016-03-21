@@ -1,0 +1,21 @@
+Directory C:\Users\Basile\Documents\These\microgravi\code\PyGrav\test_case\input_data\preprocessed
+Survey: 2013-09-19 nloops: 4 directory: 2013-09-19
+Loop: 1 filename: fn111c13.262.txt
+Loop: 2 filename: fn211c13.262.txt
+Loop: 3 filename: fn311c13.262.txt
+Loop: 4 filename: fn411c13.262.txt
+Survey: 2013-09-21 nloops: 4 directory: 2013-09-21
+Loop: 1 filename: fn111c13.264.txt
+Loop: 2 filename: fn211c13.264.txt
+Loop: 3 filename: fn311c13.264.txt
+Loop: 4 filename: fn411c13.264.txt
+Survey: 2013-09-15 nloops: 4 directory: 2013-09-15
+Loop: 1 filename: fn111c13.258.txt
+Loop: 2 filename: fn211c13.258.txt
+Loop: 3 filename: fn311c13.258.txt
+Loop: 4 filename: fn411c13.258.txt
+Survey: 2013-09-23 nloops: 4 directory: 2013-09-23
+Loop: 1 filename: fn111c13.266.txt
+Loop: 2 filename: fn211c13.266.txt
+Loop: 3 filename: fn311c13.266.txt
+Loop: 4 filename: fn411c13.266.txt

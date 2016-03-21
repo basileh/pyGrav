@@ -1,0 +1,41 @@
+$$ Ocean loading gravity+tilt
+$$
+$$ Calculated on holt using olfg/olmpp of H.-G. Scherneck
+$$
+$$ COLUMN ORDER:  M2  S2  N2  K2  K1  O1  P1  Q1  MF  MM SSA
+$$
+$$ ROW ORDER:
+$$ AMPLITUDES (mGal / urad / urad )
+$$   RADIAL
+$$   TILT E
+$$   TILT N
+$$  PHASES (degrees)
+$$   RADIAL
+$$   TILT E
+$$   TILT N
+$$
+$$ Gravity is defined positive upwards.
+$$ The phase lag is relative to Greenwich and lags positive. The 
+$$ Gutenberg-Bullen Greens function is used. In the ocean tide model the 
+$$ deficit of tidal water mass has been corrected by subtracting a uniform 
+$$ layer of water with a certain phase lag globally.
+$$
+$$ Complete <model name> : No interpolation of ocean model was necessary
+$$ <model name>_PP       : Ocean model has been interpolated near the station 
+$$                         (PP = Post-Processing)
+$$ 
+$$ Ocean tide model: FES2004
+$$
+$$ END HEADER
+$$
+  1         
+$$ Complete FES2004
+$$ Computed by OLFG, H.-G. Scherneck, Onsala Space Observatory 2015-Aug-16
+$$ 1,                         GRAV TILT  lon/lat:    1.6060    9.7420  450.000
+  .00195 .00074 .00043 .00019 .00054 .00015 .00018 .00005 .00014 .00007 .00005
+  .00689 .00224 .00148 .00060 .00035 .00077 .00011 .00024 .00024 .00012 .00008
+  .01364 .00510 .00294 .00133 .00340 .00037 .00112 .00025 .00067 .00033 .00027
+   -68.5  -48.0  -72.2  -52.9  170.2   85.0  169.8  -12.3  177.7  174.7  178.6
+    36.1   62.1   18.4   58.5   94.3   29.5   94.5   -6.2  176.0  173.4  178.0
+   -72.0  -45.4  -74.7  -49.2  168.2  101.9  167.8  -60.3  178.4  177.2  179.3
+$$ END TABLE
