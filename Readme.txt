@@ -2,8 +2,8 @@
 ################ pyGrav ##################
 ##########################################
 
-Version 1.0
-09 sept 2015
+Version 0.1.1
+21 jan 2016
 
 "pyGrav, a Python-based program for handling and processing microgravity data"
 B. Hector(1,2), J. Hinderer(1)
