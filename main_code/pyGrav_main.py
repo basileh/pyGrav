@@ -14,6 +14,11 @@ main Program, main window for GUI
 Version 1.0
 21 jan 2016
 
+Please cite as:
+Hector, B. and Hinderer, J.: pyGrav, a Python-based program for handling and 
+processing relative gravity data, Computers & Geosciences, doi:10.1016/j.cageo.2016.03.010, 2016.
+
+
 To do:
 - compute a function for a statistical analysis of drifts: find all station 
 repetitions in a survey, calculate drift (not from adjustment), and plot vs

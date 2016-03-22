@@ -2,8 +2,13 @@
 ################ pyGrav ##################
 ##########################################
 
-Version 0.1.1
+Version 1.0
 21 jan 2016
+
+Hector, B. and Hinderer, J.: pyGrav, a Python-based program for handling and 
+processing relative gravity data, Computers & Geosciences, doi:10.1016/j.cageo.2016.03.010, 2016.
+
+
 
 pyGrav, a Python-based program for handling and processing relative gravity data
 B. Hector(1,2), J. Hinderer(1)
